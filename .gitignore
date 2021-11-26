@@ -1,10 +1,5 @@
-numbers/.idea/
-numbers/.gradle/
-numbers/out/
-numbers/build/
-numbers/*.iml
-hero/.idea/
-hero/.gradle/
-hero/out/
-hero/build/
-hero/*.iml
+**/.idea/
+**/.gradle/
+**/out/
+**/build/
+**/*.iml
